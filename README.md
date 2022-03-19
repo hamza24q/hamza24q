@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hamza24q
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hamza qara
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning in Islamic
+
+
 
 <!---
 hamza24q/hamza24q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
