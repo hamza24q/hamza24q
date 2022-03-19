@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza qara
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning in Islamic
+- 🌱 I’m study at the Islamic University 
 
 
 
